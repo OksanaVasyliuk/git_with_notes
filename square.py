@@ -1,5 +1,4 @@
-text= input ("enter the side length:")
-num = int(text)
+num= float (input ("enter the side length:"))
 print (num > 0)
 
 print ("The perimeter of a square with a side of a", num, \
