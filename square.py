@@ -7,3 +7,4 @@ print ("The area of a square with a side of", num, "cm is", \
         num**2, "cm2.")
 
 print ("New changes for git")
+print ("i just need some changes")
